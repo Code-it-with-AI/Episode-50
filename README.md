@@ -2,7 +2,7 @@
 
 Rocky shows how an MCP server can ask follow-up questions in the middle of a tool call, using the new multi round-trip requests (MRTR) feature in the MCP `2026-07-28` spec.
 
-📺 YouTube video: _(link coming soon)_
+📺 YouTube video: https://youtu.be/WDH9zguuyKg
 
 🏠 Code it with AI Home Page: https://codeitwithai.com
 
